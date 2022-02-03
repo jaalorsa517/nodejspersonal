@@ -1,4 +1,4 @@
 {
   "host": "HOST",
-  "port": "PORT"
+  "port": "NODE_PORT"
 }
