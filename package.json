@@ -4,12 +4,11 @@
   "description": "Back personal Jaime Ortiz",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "dev": "nodemon index.js --mode development",
+    "start": "node index.js --mode production"
   },
   "keywords": [
-    "node",
-    "docker"
+    "node"
   ],
   "author": "jaalorsa517",
   "license": "ISC",
